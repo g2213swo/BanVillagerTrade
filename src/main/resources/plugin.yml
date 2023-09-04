@@ -1,0 +1,4 @@
+name: BanVillagerTrade
+version: '${version}'
+main: me.g2213swo.banvillagertrade.BanVillagerTrade
+api-version: '1.20'
